@@ -1,5 +1,14 @@
-¡Excelente enfoque! Dominar patrones de diseño y arquitectura es una de las **mejores inversiones** que puedes hacer como desarrollador .NET. Te propongo un **roadmap estructurado y basado en libros** (como prefieres) para profundizar en los puntos 1 (Arquitecturas avanzadas) y 4 (Fundamentos y calidad de código), integrando tu conocimiento en Angular y APIs. 
+### Solar System Exploration, 1950s – 1960s
 
+- [ ] **Fase 1: Cimientos Sólidos (2-3 meses)**
+   - [ ] 1.1 **Libro Central:**  
+   - [ ] 1.2 **Patrones Esenciales (SOLID + Básicos):** 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 ---
 
 ### **Roadmap: Maestría en Patrones y Arquitectura .NET (Enfoque Práctico-Libros)**
