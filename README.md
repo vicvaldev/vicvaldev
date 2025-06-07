@@ -1,14 +1,14 @@
 ### Solar System Exploration, 1950s – 1960s
 
 - [ ] **Fase 1: Cimientos Sólidos (2-3 meses)**
-   - [ ] 1.1 **Libro Central:**  
-   - [ ] 1.2 **Patrones Esenciales (SOLID + Básicos):** 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+   - [ ] 1.1 **Libro Central**  
+   - [ ] 1.2 **Patrones Esenciales (SOLID + Básicos)** 
+- [ ] **Fase 2: Arquitecturas Avanzadas (3-4 meses)**
+   - [ ] 2.1 **Domain-Driven Design (DDD)**  
+   - [ ] 2.2 **Arquitectura Hexagonal/Clean Architecture:**  
+- [ ] **Fase 3: Patrones Específicos de Escalabilidad (2-3 meses)**
+   - [ ] **CQRS y Event Sourcing**  
+   - [ ] **Event-Driven Architecture (EDA)**  
 ---
 
 ### **Roadmap: Maestría en Patrones y Arquitectura .NET (Enfoque Práctico-Libros)**
